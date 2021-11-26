@@ -61,3 +61,12 @@
     bottom: 10px;
     right: 10px;
 }
+
+.card {
+    background-color: #3cb878;
+    color: white;
+    width: 180px;
+    text-align: center;
+    padding: 20px 0px;
+    box-shadow: 0px 0px 7px 2px gray;
+}
